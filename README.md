@@ -1,5 +1,5 @@
 # AI-Based Service Blackout Detector  
-🚀 A transparency-focused solution to monitor and detect suspicious outages in government digital services.  
+A transparency-focused solution to monitor and detect suspicious outages in government digital services.  
 
 ## Problem Statement  
 Citizens depend on government portals for critical services such as land records, healthcare schemes, and tax filings. Yet, they often face repeated *“server down”* or *“try later”* errors at crucial times. While some outages are genuine, others raise suspicion of misuse to delay or deny access. This erodes public trust and excludes vulnerable communities.  
