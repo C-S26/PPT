@@ -34,5 +34,5 @@ We propose an **AI-based Service Blackout Detector** that:
 - Provides **transparency** and accountability in govt digital portals  
 
 ## Team  
-Team Name: *[Your Team Name]*  
+Team Name: Team Veriserve
 Built for: **Kyndryl + Microsoft Hackathon**  
